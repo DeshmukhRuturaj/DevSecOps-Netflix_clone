@@ -1,4 +1,6 @@
 <div align="center">
+  <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/72d5a8d6-92a9-4b84-bd7e-983878145039" />
+
   <img src="./public/assets/DevSecOps.png" alt="Logo" width="100%" height="100%">
 
   <br>
